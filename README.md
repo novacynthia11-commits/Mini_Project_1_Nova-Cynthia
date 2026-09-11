@@ -78,3 +78,7 @@ Program ini adalah akhir dari sistem pemilihan lagu untuk pembuatan playlis yang
 #### b. Output ketika playlist kosong
 <img width="500" alt="Screenshot 2026-09-11 213532" src="https://github.com/user-attachments/assets/c647be33-78df-451a-9b40-f50d84c0872f" />
 
+## Nilai tambah dan hasil akhir semuanya
+<img width="350" alt="Screenshot 2026-09-12 000654" src="https://github.com/user-attachments/assets/71cdcfa5-9934-45bd-aede-60fd91d17afd" />
+<img width="350" alt="Screenshot 2026-09-12 000825" src="https://github.com/user-attachments/assets/b535b771-6ac5-45fa-85ca-45b93ef83334" />
+<img width="350" alt="Screenshot 2026-09-12 000844" src="https://github.com/user-attachments/assets/100d32b2-ff7a-41cd-8a54-446b6d9cb4fe" />
