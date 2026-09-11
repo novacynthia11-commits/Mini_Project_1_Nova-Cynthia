@@ -20,7 +20,7 @@ Pengguna dapat memasukkan nama playlist secara bebas (angka atau huruf atau gabu
 <img width="800" alt="Screenshot 2026-09-11 212834 - Copy" src="https://github.com/user-attachments/assets/5c95a4bf-074b-4d70-8fb7-d41c12929267" />
 
 ### Daftar lagu
-Daftar lagu ini hanya ditampilkan sekali, yaitu di awal sebagai pemberitahuan kepada pengguna tentang lagu-lagu yang tersedia
+Daftar lagu ini hanya ditampilkan sekali, yaitu di awal sebagai pemberitahuan kepada pengguna tentang lagu-lagu yang tersedia. <br>
 <img width="500" alt="Screenshot 2026-09-11 231119" src="https://github.com/user-attachments/assets/db616c0b-d66a-40e7-94da-eb993319f6b1" />
 
 ### Daftar menu playlist
