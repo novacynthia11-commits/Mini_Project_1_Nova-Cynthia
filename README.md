@@ -21,5 +21,11 @@ Pengguna dapat memasukkan nama playlist secara bebas (angka atau huruf atau gabu
 
 ### Daftar menu playlist
 Pada daftar menu playlist terdapat tambah lagu, hapus lagu, dan selesai. Pengguna dapat memilih dengan menginputkan berupa angka, jika pengguna menasukkan angka yang tidak ada di menu playlist maka sistem akan menampikan "Pilihan tidak tersedia" dan melakukan *looping* ke pemilihan menu playlist.
-> 
+#### a. Output daftar menu playlist
+<img width="750" alt="Screenshot 2026-09-11 230515" src="https://github.com/user-attachments/assets/84259f2e-762d-440d-877d-647cd08d5030" />
+<br>
+#### b. Output ketika pengguna memasukkan angka yang tidak ada di menu playlist
+<img width="700" alt="Screenshot 2026-09-11 213556" src="https://github.com/user-attachments/assets/9db1bfc8-07a7-48c9-abb4-35dfefdb9dbc" />
+
+
 
