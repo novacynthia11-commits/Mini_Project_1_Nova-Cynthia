@@ -6,7 +6,7 @@
 **Mata Kuliah :** Dasar-Dasar Pemograman <br>
 
 ## Deskripsi
-Program ini dibuat untuk pengguna dapat memilih lagu dengan list lagu yang sudah tersedia sebelumnya. Pengguna juga dapat menambahkan nama playlist secara bebas (angka atau huruf atau gabungan). Agar mudah dipahami dan digunakan oleh pengguna serta tampilan sistem lebih sederhana, maka dibuatkan sistem "Menu Playlist" yang digunakan untuk menambahkan ke playlist dan menghapus lagu dari playlist. Hasil akhirnya pengguna dapat melihat daftar lagu yang ada di playlist.
+Program ini dibuat untuk pengguna dapat memilih lagu dengan list lagu yang sudah tersedia sebelumnya. Pengguna juga dapat menambahkan nama playlist secara bebas (angka atau huruf atau gabungan). Agar mudah dipahami dan digunakan oleh pengguna serta tampilan sistem lebih sederhana, maka dibuatkan sistem "Menu Playlist" yang digunakan untuk menambahkan lagu ke playlist dan menghapus lagu dari playlist. Hasil akhirnya pengguna dapat melihat daftar lagu yang ada di playlist.
 
 ## Flowchart
 Berikut flowchart dari sistem pemilihan lagu untuk pembuatan playlist <br>
